@@ -1,0 +1,43 @@
+{
+
+   "contract_url": "https://yoursite.com/more-info-about-the-coin.pdf",
+
+   "contract_hash": "<SHA256 hash in hex of contract_url contents>",
+
+   "contract_signature": "<signed contract_hash>",
+
+   "contract_address": "R9x4u22ru3zm5v8suWiXNji4ENWSG7eYkx",
+
+   "symbol": "MELD",
+
+   "name": "MeldCoin",
+
+   "issuer": "Meldcoin, Inc.",
+
+   "description": "This coin is melds together several coins into one.",
+
+   "description_mime": "text/x-markdown; charset=UTF-8",
+
+   "type": "Points",
+
+   "website_url": "https://github.com/MELDCOIN",
+
+   "icon": "<base64 encoded png image at 32x32>",
+
+   "image_url": "https://yoursite.com/coin-image.jpg",
+
+   "contact_name": "Info",
+
+   "contact_email": "meldcoin@gmail.com",
+
+   "contact_address": "",
+
+   "contact_phone": "",
+
+   "forsale": true,
+
+   "forsale_price": "",
+   
+   "restricted": "rule144"
+
+}
